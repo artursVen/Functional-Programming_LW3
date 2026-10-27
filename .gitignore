@@ -1,0 +1,9 @@
+# Scala CLI generated files
+.bsp/
+.scala-build/
+
+# Metals generated files
+.metals/
+
+# Local VS Code settings
+.vscode/
