@@ -1,6 +1,14 @@
 import scala.concurrent.Future
 import scala.concurrent.ExecutionContext.Implicits.global
 
+/*
+ * Copyright (C) 2026 ARTURS VENREVICS
+ * SPDX-License-Identifier: AGPL-3.0-only
+ *
+ * Licensed under the GNU Affero General Public License, version 3.
+ * See the LICENSE file for the full license text.
+ */
+
 /** 
  * 1. uzdevums
  * Fibonači skaitļu virknes aprēķināšana bez mainīgajiem.
